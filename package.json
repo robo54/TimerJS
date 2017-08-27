@@ -1,6 +1,7 @@
 {
-  "private": true,
-  "name": "timer-js",
-  "version": "0.0.1",
-  "description": "Simple library to manage time based animations. Fork that adds ES6 export."
+  "name": "@robo54/timer",
+  "version": "1.0.0",
+  "description": "Simple library to manage time based animations. Fork that adds ES6 export.",
+  "main": "index.js",
+  "license": "UNLICENSED"
 }
