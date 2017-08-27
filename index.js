@@ -817,4 +817,5 @@ Timer.prototype.freeze = function freeze() {
     return {time: time, value: value};
 };
 
+// window.Timer = Timer;
 export default Timer;
